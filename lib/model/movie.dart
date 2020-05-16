@@ -5,7 +5,7 @@ class Movie {
   final String backPoter;
   final String poster;
   final String overview;
-  final String rating;
+  final double rating;
 
   Movie(
     this.id,
